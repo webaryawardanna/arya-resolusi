@@ -1,9 +1,11 @@
 RENCANA USAHA ARYA
 
 - Membeli Mobil
-- Buka Fotocopy
 - Bisnis Angkringan
+ ^ Jual Nasi
+ ^ Jual Lalapan
 - Pembuat Jasa WEB
 - Membuka Warnet
   * Dirumah
   * Pelayanan yang lengkap
+  ^ Wifi
