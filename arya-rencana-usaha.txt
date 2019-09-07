@@ -9,4 +9,5 @@ RENCANA USAHA ARYA
 - Membuka Warnet
   * Dirumah
   * Pelayanan yang lengkap
+  ^ Wifi
 - Jual Beli Tanah
